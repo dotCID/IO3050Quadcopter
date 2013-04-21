@@ -1,0 +1,1 @@
+The file 20130418_WIP_software.odt contains the (preliminary) report section on software of the project report. This is included because it gives insights into the software written, even though it includes superfluous information regarding the software alone.
