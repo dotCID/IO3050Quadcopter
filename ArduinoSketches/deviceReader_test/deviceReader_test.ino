@@ -16,7 +16,7 @@ void setup()
   // Print a startup message
   Serial.println("initializing");
   
-  imu.setup(51);
+  imu.setup();
 }
 
 void loop()

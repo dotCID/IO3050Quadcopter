@@ -1,8 +1,3 @@
-/*
-*  This code is in the public domain.
-*  (Do whatever you want with it.)
-*/
-
 // Need the Servo library
 #include <Servo.h>
 #include <Engine.h>
