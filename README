@@ -4,3 +4,7 @@ IO3050 Quadcopter Project
 This is the repository with all source code associated with the TU Delft IO3050 course project "Quadcopter". The code in this repo is either open source and attributed to its author or written by me or my colleagues in during this project.
 
 The code is fully functional, though not beautiful. There are some possibly inefficient fixes in place, but time did not allow us to create better solutions. With the code in this project the quadcopter we built will take off, fly for a bit, and land if either the timer has reached its limit or an uncorrectable angle has been reached and the failsafe cuts in.
+
+Usage instructions:
+The contents of the Arduino Libraries folder go into /%INSTALLDIR%/arduino-1.0.x/libraries
+The contents of the Arduino Sketches folder go into /%DOCUMENTS%/Arduino (your default sketches folder)
